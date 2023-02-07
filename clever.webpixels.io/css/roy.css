@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;500;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;500;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Public+Sans:wght@100;500;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;500;800;900&display=swap');
+
+header {
+    margin: 24px 0px 0px 25px;
+}
+
+.tex p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.path {
+    display: flex;
+    margin-top: 23px;
+}
+
+.path span {
+    color: #000000;
+}
+
+.path p {
+    margin-left: 10px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0065FF;
+}
+
+main {
+    margin: 15px 54px 0px 25px;
+    border-top: #000000;
+    border-style: solid;
+    width: 1541.05px;
+    height: 0px;
+    border: 1.5px solid rgba(0, 0, 0, 0.1);
+}
+
+.select-section {
+    margin-top: 18.75px;
+}
+
+.select-box {
+    width: 472.13px;
+    height: 82px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+
+.information {
+    margin-top: 15px;
+
+}
+
+.info1 {
+    width: 432px;
+    padding-right: 25px;
+}
+
+.profile-info {
+    width: 432px;
+    height: 425px;
+    padding: 29px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.Submission-pro {
+    margin-top: 25px;
+    width: 432px;
+    height: 375px;
+    padding: 29px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.Submission-pro span {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.p-item {
+    margin-top: 38px;
+}
+
+.p-item p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    padding-left: 13.71px;
+    color: #000000;
+}
+
+.text {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.text p {
+    margin-bottom: 0px;
+}
+
+.time {
+    margin-top: 5px;
+    margin-left: 70px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+    color: blue;
+}
+
+
+
+.profile-text span {
+    color: #000000;
+    font-size: 16px;
+
+}
+
+.tex-info {
+    width: 1087.03px;
+    height: 425px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+
+.info2 {
+    width: 1087.55px;
+
+}
+
+.collapsed {
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+    height: 24px;
+    left: 344.24px;
+    top: 336.41px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.card-header {
+    background-color: none;
+}
+
+.card {
+    border: none;
+}
+
+
+.form input {
+    width: 1035px;
+    height: 44px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+.form label {
+    width: 128px;
+    height: 18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.form button {
+    padding: 9px 16px 9px 16px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    margin-top: 40px;
+    margin-right: 15px;
+    border: none;
+}
+
+.btn-secondary {
+    background-color: #DEEBFF;
+
+}
+
+.s-box {
+    width: 472.13px;
+
+
+
+}
+
+.select-box p {
+    margin-bottom: 22.50px;
+}
+
+.file input {
+    display: flex;
+    text-align: center;
+    padding-left: 23px;
+    font-size: 10px;
+    padding-top: 9.5px;
+}
+
+::-webkit-file-upload-button {
+    background-color: #DEEBFF;
+    border: none;
+    border-radius: 10px;
+    color: #0065FF;
+    width: 88.67px;
+    height: 26.23px;
+
+}
+
+.files input {
+    width: 929px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    padding-top: 9px;
+
+}
+
+.upload button {
+    margin-top: 0px;
+    margin-left: 22.5px;
+}
+
+.selection {
+    background-color: #000;
+}
+
+.select2-selection__rendered {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #BDBDBD;
+}
+
+
+
+
+
+.accordion .card-header:after {
+    font-family: 'FontAwesome';
+    content: "\f068";
+    float: right;
+}
+
+.accordion .card-header.collapsed:after {
+    content: "\f067";
+}
+
+.accordion {
+    margin-bottom: 20px;
+}
+
+.custom-repo li {
+    display: inline-flex;
+    width: 150px;
+    position: relative
+}
+
+.custom-repo li:after {
+    content: '';
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background: #000;
+    border-radius: 50%;
+    top: 7px;
+    left: -15px;
+}
+
+.annual-repo li {
+    width: 200px;
+}
+
+.card-header {
+    background-color: #a9d3fd;
+    border-bottom: 1px solid #bbddff;
+}
